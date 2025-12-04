@@ -1,6 +1,6 @@
 # Python Network Automation Tool 
 ## Overview
-A custom TCP/IP networ kmanagement tool built to automate file distrbition and configuration updates across multiple client nodes.
+A custom TCP/IP networK management tool built to automate file distrbition and configuration updates across multiple client nodes.
 
 ## Architecture
 Controller: Multi-threaded server that handles concurrent connections.
